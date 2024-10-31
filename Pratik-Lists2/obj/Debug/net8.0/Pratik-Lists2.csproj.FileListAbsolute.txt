@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Pratik-Lists2\bin\Debug\net8.0\Pratik-Lists2.exe
+C:\Users\Orkun\source\repos\Pratik-Lists2\bin\Debug\net8.0\Pratik-Lists2.deps.json
+C:\Users\Orkun\source\repos\Pratik-Lists2\bin\Debug\net8.0\Pratik-Lists2.runtimeconfig.json
+C:\Users\Orkun\source\repos\Pratik-Lists2\bin\Debug\net8.0\Pratik-Lists2.dll
+C:\Users\Orkun\source\repos\Pratik-Lists2\bin\Debug\net8.0\Pratik-Lists2.pdb
+C:\Users\Orkun\source\repos\Pratik-Lists2\obj\Debug\net8.0\Pratik-Lists2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Pratik-Lists2\obj\Debug\net8.0\Pratik-Lists2.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Lists2\obj\Debug\net8.0\Pratik-Lists2.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Pratik-Lists2\obj\Debug\net8.0\Pratik-Lists2.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Lists2\obj\Debug\net8.0\Pratik-Lists2.dll
+C:\Users\Orkun\source\repos\Pratik-Lists2\obj\Debug\net8.0\refint\Pratik-Lists2.dll
+C:\Users\Orkun\source\repos\Pratik-Lists2\obj\Debug\net8.0\Pratik-Lists2.pdb
+C:\Users\Orkun\source\repos\Pratik-Lists2\obj\Debug\net8.0\Pratik-Lists2.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Pratik-Lists2\obj\Debug\net8.0\ref\Pratik-Lists2.dll
